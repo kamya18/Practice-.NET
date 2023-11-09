@@ -1,0 +1,14 @@
+c:\Users\patelk\ConsoleApplicationDemo\bin\Debug\net7.0\ConsoleApplicationDemo.exe
+c:\Users\patelk\ConsoleApplicationDemo\bin\Debug\net7.0\ConsoleApplicationDemo.deps.json
+c:\Users\patelk\ConsoleApplicationDemo\bin\Debug\net7.0\ConsoleApplicationDemo.runtimeconfig.json
+c:\Users\patelk\ConsoleApplicationDemo\bin\Debug\net7.0\ConsoleApplicationDemo.dll
+c:\Users\patelk\ConsoleApplicationDemo\bin\Debug\net7.0\ConsoleApplicationDemo.pdb
+c:\Users\patelk\ConsoleApplicationDemo\obj\Debug\net7.0\ConsoleApplicationDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\patelk\ConsoleApplicationDemo\obj\Debug\net7.0\ConsoleApplicationDemo.AssemblyInfoInputs.cache
+c:\Users\patelk\ConsoleApplicationDemo\obj\Debug\net7.0\ConsoleApplicationDemo.AssemblyInfo.cs
+c:\Users\patelk\ConsoleApplicationDemo\obj\Debug\net7.0\ConsoleApplicationDemo.csproj.CoreCompileInputs.cache
+c:\Users\patelk\ConsoleApplicationDemo\obj\Debug\net7.0\ConsoleApplicationDemo.dll
+c:\Users\patelk\ConsoleApplicationDemo\obj\Debug\net7.0\refint\ConsoleApplicationDemo.dll
+c:\Users\patelk\ConsoleApplicationDemo\obj\Debug\net7.0\ConsoleApplicationDemo.pdb
+c:\Users\patelk\ConsoleApplicationDemo\obj\Debug\net7.0\ConsoleApplicationDemo.genruntimeconfig.cache
+c:\Users\patelk\ConsoleApplicationDemo\obj\Debug\net7.0\ref\ConsoleApplicationDemo.dll
